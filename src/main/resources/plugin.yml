@@ -1,0 +1,8 @@
+name: ArmyPack
+version: 0.0.1
+main: tech.scramjetdev.armypack.Main
+api-version: 1.18
+author: scramjetdev
+commands:
+  getweapon:
+    description: "debug"
